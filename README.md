@@ -1,5 +1,3 @@
-# LinkedIn Project: Advanced AI Image Analysis Application
-
 ## Project Title
 **AI-Powered Image Analysis Tool with Real-Time Object Detection**
 
